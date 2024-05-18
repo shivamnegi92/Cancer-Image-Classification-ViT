@@ -19,7 +19,7 @@ Welcome to the Cancer Detection using Vision Transformer repository. This projec
 
 ## Introduction
 
-Cancer diagnosis through histopathological images is a crucial task in medical imaging. Accurate classification of these images can significantly aid in early detection and treatment. This repository leverages Vision Transformers (ViT), a state-of-the-art deep learning model, to perform binary classification on a dataset of histopathological images.
+Cancer diagnosis through x-ray images is a crucial task in medical imaging. Accurate classification of these images can significantly aid in early detection and treatment. This repository leverages Vision Transformers (ViT), a state-of-the-art deep learning model, to perform binary classification on a dataset of images.
 
 ## Prerequisites
 
